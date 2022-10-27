@@ -1,2 +1,2 @@
 # remove-background
-Remove background
+this is initial remove bg.md
